@@ -7,7 +7,8 @@
 - Iterate between All Glasses.
 - Show any Glass Details.
 - Filter Glasses by Name.
-- Filter Glasses by Max Price.
+- Filter Glasses by Max Price.</br>
+
 ![image](https://user-images.githubusercontent.com/81237428/225972603-9472b93e-7599-404c-8b02-c82eb2268ec9.png)
 ![image](https://user-images.githubusercontent.com/81237428/225972316-cfda8b5f-c083-40b5-a83a-81ffa4de5a66.png)
 ![image](https://user-images.githubusercontent.com/81237428/225971359-57ee8b2e-063c-4602-8ee8-8c8776fd80e2.png)
