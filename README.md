@@ -16,6 +16,7 @@
 ## Technologies
 - HTML 
 - CSS
+- Bootstrap
 - JavaScript
 - PHP & MYSQL
 
